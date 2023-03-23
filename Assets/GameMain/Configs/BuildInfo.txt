@@ -1,0 +1,10 @@
+{
+  "GameVersion": "0.1.0",
+  "InternalGameVersion": 0,
+  "CheckVersionUrl": "http://10.192.19.30:8080/ABs/{0}Version.txt",
+  "WindowsAppUrl": "https://www.baidu.com",
+  "MacOSAppUrl": "https://starforce.gameframework.cn",
+  "IOSAppUrl": "https://starforce.gameframework.cn",
+  "AndroidAppUrl": "https://starforce.gameframework.cn",
+  "END_OF_JSON": ""
+}
